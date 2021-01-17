@@ -1,5 +1,4 @@
-## Coursera_Capstone_Project
-Capstone project of the IBM Data Science Professional Certificate offered by Coursera
+## Capstone project of the IBM Data Science Professional Certificate ## offered by Coursera
 
 # Locating Optimal Neighborhoods in Berlin for Setting Up a Late-Night Restaurant
 
